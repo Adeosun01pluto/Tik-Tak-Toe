@@ -75,6 +75,7 @@ function App() {
 
   return (
     <div className="App">
+        <h2 className="text-emerald-700">Tik Tak Toe</h2>
       <div className="board">
         <div className="row">
           <Square
