@@ -75,8 +75,8 @@ function App() {
 
   return (
     <div className="App">
-        <h2 className="text-emerald-700">Tik Tak Toe</h2>
       <div className="board">
+        <h2 className="text-center text-2xl py-2">Tik Tak Toe</h2>
         <div className="row">
           <Square
             val={board[0]}
